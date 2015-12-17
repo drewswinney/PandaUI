@@ -1,0 +1,11 @@
+body
+{
+	background: #E8D6A2
+}
+
+.outline, .outline div
+{
+    outline: 1px solid #404954; 
+    color: #606B73;
+    background: #E6EAEB;
+}
